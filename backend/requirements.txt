@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+alembic
+psycopg2-binary
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+email-validator
+bcrypt==4.3.0
