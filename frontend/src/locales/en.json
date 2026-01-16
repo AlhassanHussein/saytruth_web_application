@@ -1,0 +1,39 @@
+{
+    "appTitle": "Secreto",
+    "login": {
+        "title": "Secreto",
+        "description": "Enter your credentials to access your account",
+        "usernameLabel": "Username",
+        "usernamePlaceholder": "Enter your username",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Enter your password",
+        "submitButton": "Sign In",
+        "noAccount": "Don't have an account?",
+        "signupLink": "Sign up",
+        "errorInvalid": "Invalid username or password"
+    },
+    "signup": {
+        "title": "Join Secreto",
+        "description": "Create an account to verify your identity",
+        "usernameLabel": "Username",
+        "usernamePlaceholder": "Choose a username",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Create a password",
+        "confirmPasswordLabel": "Confirm Password",
+        "confirmPasswordPlaceholder": "Confirm your password",
+        "emailLabel": "Email (Optional)",
+        "emailPlaceholder": "Enter your email",
+        "phoneLabel": "Phone Number (Optional)",
+        "phonePlaceholder": "Enter your phone number",
+        "submitButton": "Create Account",
+        "hasAccount": "Already have an account?",
+        "loginLink": "Sign in",
+        "errorMismatch": "Passwords do not match",
+        "errorFailed": "Signup failed"
+    },
+    "language": {
+        "select": "Select Language",
+        "en": "English",
+        "es": "Español"
+    }
+}
