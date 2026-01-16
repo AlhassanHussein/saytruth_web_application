@@ -1,0 +1,11 @@
+## to run the application
+
+
+#activate the virtual environment
+source .venv/bin/activate
+
+#run the frontend
+npm run dev
+
+#run the backend
+uvicorn backend.main:app --reload
